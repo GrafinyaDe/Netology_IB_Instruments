@@ -14,4 +14,5 @@ class ProfileView: UIView {
     @IBOutlet weak var ageLabel: UILabel!
     @IBOutlet weak var sityLabel: UILabel!
     @IBOutlet weak var scrollTextView: UITextView!
+
 }
